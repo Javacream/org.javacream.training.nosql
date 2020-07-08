@@ -16,5 +16,5 @@
   * Vorschlag: Pausenzeit gesamt etwa 1:00h
   * Zeitplan 
     * Mi.: 10:00 - 16:30
-    * Do.: 8:45 - 16:30
-    * Fr.: 8:45 - 15:00
+    * Do.:  9:00 - 16:30
+    * Fr.:  9:00 - 15:30
