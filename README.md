@@ -18,3 +18,6 @@
     * Mi.: 10:00 - 16:30
     * Do.:  9:00 - 16:30
     * Fr.:  9:00 - 15:30
+
+* Ressourcen
+** https://java.integrata-cegos.de/nosql-eine-einfuehrung/
