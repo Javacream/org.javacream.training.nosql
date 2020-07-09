@@ -21,3 +21,8 @@
 
 * Ressourcen
   * https://java.integrata-cegos.de/nosql-eine-einfuehrung/
+  
+* Training Sessions
+
+  * [Neo4J](/neo4j.md)
+  * [Apache Cassandra](/cassandra.md)
